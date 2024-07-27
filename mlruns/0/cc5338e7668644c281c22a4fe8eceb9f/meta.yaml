@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/vitclasses/ML/MLFlow-test/mlruns/0/cc5338e7668644c281c22a4fe8eceb9f/artifacts
+end_time: 1722101086877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc5338e7668644c281c22a4fe8eceb9f
+run_name: smiling-ant-899
+run_uuid: cc5338e7668644c281c22a4fe8eceb9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722101079018
+status: 3
+tags: []
+user_id: uthis
